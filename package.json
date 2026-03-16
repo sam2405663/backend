@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "new backend",
+  "homepage": "https://github.com/sam2405663/backend#readme",
+  "bugs": {
+    "url": "https://github.com/sam2405663/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam2405663/backend.git"
+  },
+  "license": "ISC",
+  "author": "sam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
+  }
+}
